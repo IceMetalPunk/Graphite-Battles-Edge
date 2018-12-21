@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "49df605d-4ef2-4cdb-94c9-ae2700dc2e97",
+            "Value": {
+                "id": "b3abe462-b206-4341-ad5a-c2e39b77c323",
+                "resourcePath": "objects\\Node\\Node.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "62ab1f08-4e2c-4abf-9bf8-64eef94956fd",
             "Value": {
                 "id": "f9a19520-3ab1-4fd8-8177-42fe9f599199",
@@ -106,7 +114,7 @@
             "Key": "8132d7b4-267f-4968-80fe-4c74ba463718",
             "Value": {
                 "id": "9f687c7f-5b71-4359-9298-e2a8e8feb67b",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\TestRoom\\TestRoom.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -132,6 +140,14 @@
                 "id": "cf8a39a9-c123-4711-9da0-8cf273ddbf52",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "97fc535d-d0c9-41fb-b8bf-7af04e4bd2ed",
+            "Value": {
+                "id": "8c28715a-91bd-4ab7-868f-a45c8f65d8ea",
+                "resourcePath": "objects\\GraphGenerator\\GraphGenerator.yy",
+                "resourceType": "GMObject"
             }
         },
         {

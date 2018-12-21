@@ -1,13 +1,13 @@
 
 {
-    "name": "room0",
+    "name": "TestRoom",
     "id": "8132d7b4-267f-4968-80fe-4c74ba463718",
     "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "d61ca2b7-31b1-4968-80b1-a6fa2ad22b20"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_14A3311D","id": "d61ca2b7-31b1-4968-80b1-a6fa2ad22b20","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_14A3311D","objId": "97fc535d-d0c9-41fb-b8bf-7af04e4bd2ed","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 64,"y": 160}
             ],
             "layers": [
 
@@ -43,7 +43,7 @@
             "id": "93c286c4-39f7-429c-bfd3-7fccdff6d334",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "colour": { "Value": 4294967295 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
