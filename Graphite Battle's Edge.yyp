@@ -95,6 +95,22 @@
             }
         },
         {
+            "Key": "6b5c9dd5-30da-4904-b5ff-6275f4da8f2b",
+            "Value": {
+                "id": "f284f9c1-0af1-4f11-a98e-f4cf7715f41e",
+                "resourcePath": "objects\\DebugObj\\DebugObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6bf97a59-5e71-4587-b1a7-220fc98ff90f",
+            "Value": {
+                "id": "64cae26a-d735-4b22-a57e-1d0704382a85",
+                "resourcePath": "scripts\\isAngleBetween\\isAngleBetween.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "3d09a32f-5258-4e90-87af-117b9f44aaf0",
@@ -146,7 +162,7 @@
             "Key": "97fc535d-d0c9-41fb-b8bf-7af04e4bd2ed",
             "Value": {
                 "id": "8c28715a-91bd-4ab7-868f-a45c8f65d8ea",
-                "resourcePath": "objects\\GraphGenerator\\GraphGenerator.yy",
+                "resourcePath": "objects\\Graph\\Graph.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -231,6 +247,14 @@
             }
         },
         {
+            "Key": "e5f8c1e3-60bc-4c4e-ab75-e419c417a5b7",
+            "Value": {
+                "id": "5c8eacc3-5e76-4a47-b824-4e1113b9418b",
+                "resourcePath": "scripts\\getNodeById\\getNodeById.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f1a16815-0762-4d12-94f2-e059bf9de30a",
             "Value": {
                 "id": "a00fc94d-f462-4848-a50d-778e7ef74561",
@@ -280,7 +304,8 @@
         }
     ],
     "script_order": [
-        
+        "e5f8c1e3-60bc-4c4e-ab75-e419c417a5b7",
+        "6bf97a59-5e71-4587-b1a7-220fc98ff90f"
     ],
     "tutorial": ""
 }
